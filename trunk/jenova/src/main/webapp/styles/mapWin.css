@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+#mapWin {
+	background-image: url("../images/mapWinBg.png");
+	width: 350px;
+	height: 530px;
+}
+
+#mapWin_inner {
+	padding: 10px;
+}
+
+#mapRegForm {
+	
+}
+
+#mapList {
+	background-color: #fff;
+	overflow-y: scroll;
+	height: 200px;
+}

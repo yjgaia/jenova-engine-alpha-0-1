@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+
+#tileWin {
+	background-image: url("../images/tileWinBg.png");
+	width: 350px;
+	height: 630px;
+}
+
+#tileWin_inner {
+	padding: 10px;
+}
+
+#tileRegForm {
+	
+}
+
+#tileImgViewer {
+	overflow: scroll;
+	width: 150px;
+	height: 150px;
+	background-color: #666;
+	text-align: center;
+}
+
+#tileBlockViewer {
+	overflow: scroll;
+	width: 150px;
+	height: 150px;
+	background-color: #666;
+	text-align: center;
+}
+
+#tileBlockViewer img {
+	cursor: pointer;
+}
+
+#tileList {
+	background-color: #fff;
+	overflow-y: scroll;
+	height: 200px;
+}
+
+#tileList img {
+	width: 20px;
+	height: 20px;
+	margin-right: 10px;
+}
