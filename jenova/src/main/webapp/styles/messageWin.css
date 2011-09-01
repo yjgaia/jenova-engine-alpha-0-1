@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+#messageWinWrapper {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url("../images/messageWinWrapperBg.png"); 
+}
+
+#messageWin {
+	background-image: url("../images/messageWinBg.png");
+	width: 300px;
+	height: 150px;
+	text-align: left;
+}
+
+#messageWin_inner {
+	padding: 10px;
+}

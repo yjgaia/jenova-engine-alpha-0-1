@@ -1,0 +1,24 @@
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-07-29 18:04:17
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-08-01 10:01:39
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-08-01 12:26:28
+// [failed] entity --class co.hanul.jenova.domain.Map
+// [failed] entity --class co.hanul.jenova.domain.MapInfo
+// [failed] entity --class co.hanul.jenova.domain.Map
+// [failed] field number --fieldName width --type java.lang.Integer
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-08-01 12:34:37
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-08-01 12:35:02
+entity --class co.hanul.jenova.domain.MapInfo
+field number --fieldName width --type java.lang.Integer
+// [failed] field number --fieldName height --type java.lang.Integer
+field number --fieldName height --type java.lang.Integer
+field string --fieldName name
+// [failed] entity --class co.hanul.jenova.domain.Map
+// [failed] entity --class co.hanul.jenova.domain.Map
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-08-01 12:37:13
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-08-01 12:39:54
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-08-01 12:39:59
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-08-01 12:40:08
+entity --class co.hanul.jenova.domain.MapTile
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-08-01 17:32:40
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-08-04 16:59:11
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-08-04 17:59:09
