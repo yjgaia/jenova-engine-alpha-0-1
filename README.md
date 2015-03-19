@@ -11,11 +11,9 @@
 * Jetty8 (For Using Websocket), eclipse jetty plugin ([http://download.eclipse.org/jetty/updates/jetty-wtp/development/])
 * Spring Roo (Using STS)
 
-<타일 이동 제한 구역 설정, 실시간 맵 등록, 맵에 타일 적용 기능 시연 영상>
-https://www.youtube.com/embed/Hrhr7IVHiPk
+[타일 이동 제한 구역 설정, 실시간 맵 등록, 맵에 타일 적용 기능 시연 영상](https://www.youtube.com/embed/Hrhr7IVHiPk)
 
-<캐릭터 생성과 이동, 채팅 기능 시연 영상>
-https://www.youtube.com/embed/suAOAGrKNC4
+[캐릭터 생성과 이동, 채팅 기능 시연 영상](https://www.youtube.com/embed/suAOAGrKNC4)
 
 Commiter
 ----
