@@ -8,7 +8,7 @@
 3. Jenova Engine에 접속하면 캐릭터가 자동으로 생성되고, 맵의 이동 가능한 위치로 이동이 가능하며, 상호간 채팅이 가능
 
 ## 개발 환경
-* Jetty8 (For Using Websocket), eclipse jetty plugin ([http://download.eclipse.org/jetty/updates/jetty-wtp/development/])
+* Jetty8 (For Using Websocket), eclipse jetty plugin (http://download.eclipse.org/jetty/updates/jetty-wtp/development/)
 * Spring Roo (Using STS)
 
 [타일 이동 제한 구역 설정, 실시간 맵 등록, 맵에 타일 적용 기능 시연 영상](https://www.youtube.com/embed/Hrhr7IVHiPk)
