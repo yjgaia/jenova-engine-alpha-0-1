@@ -1,6 +1,6 @@
 # jenova-engine-alpha-0-1
 
-* 이 프로젝트는 Google Code에서 이전되었습니다.
+* *이 프로젝트는 Google Code로부터 이전되었습니다.*
 * *※ 이 프로젝트는 중단되었습니다.* [Jenova Engine 리뉴얼 계획](http://blog.mr.hanul.co/2011/08/jenova-engine_24.html)
 
 1. WebSocket의 접속자를 Map 별로 나누어 관리
